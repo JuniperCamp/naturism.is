@@ -1,0 +1,6 @@
+{
+  "app": "npx ts-node bin/naturism.is.ts",
+  "context": {
+    "domain": "naturism.is"
+  }
+}
